@@ -1,1 +1,1 @@
-# idea-presentation
+# idea
